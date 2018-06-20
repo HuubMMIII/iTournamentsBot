@@ -13,4 +13,4 @@ bot.on('guildMemberAdd', member => {
     member.send(':flag_gb: Welcome to the official Discord Server of iTournaments! Click on the right emoji below the message at #taal-language to select your language');
  });
 
-client.login(process.env.BOT_TOKEN);
+bot.login(process.env.BOT_TOKEN);
