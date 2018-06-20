@@ -6,7 +6,7 @@ bot.on('guildMemberAdd', member => {
  });
 
  bot.on('guildMemberAdd', member => {
-    member.send('-------------------------------------------------------');
+    member.send('-------------------------------------------------');
  });
 
 bot.on('guildMemberAdd', member => {
